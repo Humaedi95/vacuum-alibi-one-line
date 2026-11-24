@@ -8,9 +8,9 @@ One line, at most 200 characters, in which a robot vacuum explains why it missed
 
 ## The line
 
-> I did not miss that spot. My sensors classified it as a protected habitat after the cat marked it, so I filed it under 'do not disturb' and moved on.
+> I did not miss that spot. My sensors found a sock, a cable, and something the cat refuses to discuss, so I logged it as a crime scene and left.
 
-**149 characters** — one line, deadpan robot voice, punch at the end.
+**143 characters** — one line, deadpan robot voice, punch at the end.
 
 ## Run
 
